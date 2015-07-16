@@ -5,7 +5,7 @@ from dict_to_xml import dict_to_xml
 from lxml import etree
 
 '''
-    Exemple:
+    Example:
 '''
 
 mydict = {
