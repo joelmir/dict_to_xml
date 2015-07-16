@@ -1,6 +1,6 @@
 # dict_to_xml
 
-Convert dictionaries to lxml elements.
+Convert dictionaries to lxml.etree elements.
 
 Dependence:
 
