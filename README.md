@@ -1,7 +1,7 @@
 # dict_to_xml
 
-Convert dictionies to a xml element.
+Convert dictionaries to lxml elements.
 
-Dependences:
+Dependence:
+
 lxml
-
